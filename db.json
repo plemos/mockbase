@@ -1,5 +1,7 @@
 {
-  "convert": 300.20,
+  "convert": {
+    "value": 300.20
+  },
   "date": {
     "name": "typicode"
   }
