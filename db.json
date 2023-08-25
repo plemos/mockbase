@@ -1,9 +1,6 @@
 {
   "convert?CurrencyFrom=ARS": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    300
   ],
   "date": {
     "name": "typicode"
