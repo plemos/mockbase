@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "convert?CurrencyFrom=ARS": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "date": {
     "name": "typicode"
   }
 }
